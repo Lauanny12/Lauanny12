@@ -14,6 +14,9 @@
 
 
 
-  <a href="https://www.instagram.com/lauann_y0/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "lauanny.silva2@estudante.ifto.edu.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ <div>
+  <a href= "https://github.com/Lauanny12/web">
+  <img heigth="180em" src="https://github-readme-stats.vercel.app/api?username=Lauanny12&show_icons=true&theme=gruvbox"/>
+    
 </div>
+
